@@ -80,7 +80,7 @@
             this.Logo.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
             this.Logo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.Logo.Image = ((System.Drawing.Image)(resources.GetObject("Logo.Image")));
-            this.Logo.Location = new System.Drawing.Point(219, 53);
+            this.Logo.Location = new System.Drawing.Point(219, 40);
             this.Logo.Name = "Logo";
             this.Logo.Size = new System.Drawing.Size(250, 64);
             this.Logo.TabIndex = 3;
